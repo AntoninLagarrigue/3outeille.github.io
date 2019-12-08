@@ -2,8 +2,16 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/header_one.jpg
-  title: first banner image
 
-- src: landing/header_two.jpg
-  title: second banner image
+#- src: landing/header_two.jpg
+#  title: second banner image
+
+- src: landing/montagne.gif
+  background_color1: fff
+  background_color2: fff
+  title: Polygon art
+
+- src: landing/bottom_home.gif
+  background_color1: fff
+  background_color2: fff
+  title: Drone

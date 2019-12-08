@@ -1434,11 +1434,6 @@ code {
   color: #fff;
 }
 
-.navy-bg-present {
-  background-color: #1cf400;
-  color: #fff;
-}
-
 .panel-primary {
   border-color: #3385FF;
 }
@@ -1873,6 +1868,10 @@ ul.clear-list:first-child {
 .contact-type {
   width: 20px;
   color: #c1c3c4;
+}
+
+#blog {
+  color: #3385FF;
 }
 
 .blog {
@@ -2505,10 +2504,12 @@ body {
     height: auto;
   }
   .header-back {
-    height: 470px;
+    height: 100%;
     width: 100%;
-    background-position: 50% 0;
-    background-repeat:  no-repeat;
+    //background-position: center;
+    background-size: 250px 250px; 
+    background-repeat:  repeat;
+    background-color: #fff;
   }
   .carousel {
     height: 470px;
@@ -2655,8 +2656,11 @@ body {
   .testimonials {
     padding-top: 80px;
     padding-bottom: 90px;
-    background-color: #3385FF;
-    background-image: url(../assets/img/landing/avatar_all.png);
+    background-color: #1a5480;
+    background-image: url(../assets/img/landing/bottom_home.gif);
+    background-size: 40% 150%;
+    background-position: center;
+    background-repeat: no-repeat;
   }
   .contact {
     background-image: url(../assets/img/landing/word_map.png);
