@@ -1872,6 +1872,7 @@ ul.clear-list:first-child {
 
 #blog {
   color: #3385FF;
+
 }
 
 .blog {
@@ -2505,9 +2506,9 @@ body {
   .header-back {
     height: 100%;
     width: 100%;
-    //background-position: center;
-    background-size: 400px 50%;//250px 250px; 
-    background-repeat: repeat;
+    background-position: center;
+    //background-size: 85% 250%;//250px 250px; 
+    background-repeat: no-repeat;
   }
   
   .carousel {
