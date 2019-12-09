@@ -2356,7 +2356,6 @@ body {
   }
 }
 
-
 .landing-page {
   span.navy {
     color: #3385FF;
@@ -2507,19 +2506,21 @@ body {
     height: 100%;
     width: 100%;
     //background-position: center;
-    background-size: 20% 50%;//250px 250px; 
-    background-repeat:  repeat;
-    background-color: #fff;
+    background-size: 400px 50%;//250px 250px; 
+    background-repeat: repeat;
   }
+  
   .carousel {
     height: 470px;
+    background-color: #fff;
   }
+
   .carousel-caption {
     z-index: 10;
   }
   .carousel .item {
     height: 470px;
-    background-color: #777;
+    background-color: #fff;
   }
   .carousel-inner > .item > img {
     position: absolute;
@@ -2658,7 +2659,7 @@ body {
     padding-bottom: 90px;
     background-color: #1a5480;
     background-image: url(../assets/img/landing/bottom_home.gif);
-    background-size: 30% 110%;
+    background-size: 450px;
     background-position: center;
     background-repeat: no-repeat;
   }
