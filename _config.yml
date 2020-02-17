@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Computer engineering student at  <a href="https://www.epita.fr/" target="_blank">EPITA</a> with strong interest in Machine Learning/Deep Learning and Natural environment.  # Describe yourself.
+  desc: Computer engineering student at  <a href="https://www.epita.fr/" target="_blank">EPITA</a> with strong interest in Machine Learning/Deep Learning and languages.  # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

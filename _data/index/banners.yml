@@ -6,12 +6,12 @@
 #- src: landing/header_two.jpg
 #  title: second banner image
 
-- src: landing/landscape.jpg
+- src: landing/campagne.png
   background_color1: fff
   background_color2: fff
-  title: Polygon art
+  title: Campagne
 
-- src: landing/bottom_home.gif
+- src: landing/space.jpg
   background_color1: fff
   background_color2: fff
-  title: Drone
+  title: space
