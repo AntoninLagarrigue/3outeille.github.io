@@ -23,12 +23,12 @@ author:  # change following line to your infomation.
   cv: #http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-apache
-    - name: fa-linux
+    - name: fas fa-bullseye
+    - name: fa fa-lightbulb-o
   skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
-  desc: Computer engineering student at  <a href="https://www.epita.fr/" target="_blank">EPITA</a> with strong interest in Machine Learning/Deep Learning and languages.  # Describe yourself.
+    - name: fas fa-language
+    - name: fas fa-tree
+  desc: Computer engineering student at  <a href="https://www.epita.fr/" target="_blank">EPITA</a> with strong interest in Machine Learning/Deep Learning, Languages and Natural Environment.  # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
