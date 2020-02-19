@@ -13,8 +13,8 @@
   repo: CNNumpy
   url: https://github.com/3outeille/CNNumpy
   img: /static/assets/img/landing/cnnumpy.png
-  desc: Implementation of Convolutional Neural Network (LeNet-5 architecture) using only Numpy.
-
+  desc: A Numpy Implementation of a Convolutional Neural Network (LeNet-5 architecture).
+  
 - name: Research Paper Summary
   gh_user: 3outeille
   repo: Research-Paper-Summary
