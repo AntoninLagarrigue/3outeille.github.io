@@ -1,18 +1,3 @@
----
-layout: post
-is_post: on
-post_url : "https://hackmd.io/@bouteille/S1WvJyqmI"
-title:  "LeNet-5: Summary and Implementation"
-date:   2020-02-16
-keywords: ""
-categories: [deep-learning]
-tags: [Convolutional Neural Network, Computer Vision, Research Paper]
-icon: fa-code
----
-
-<!-- HACKMD -->
-
-<!-- 
 # LeNet-5: Summary and Implementation 
 
 ![](https://cdn.discordapp.com/attachments/676833120053493770/679441869272383548/02SVJziM1LQwmK-qe.png)
@@ -254,4 +239,4 @@ Plot of training error over 20 epochs:
 
 # References
 
-[1] Y. LeCun, L. Bottou, Y. Bengio and P. Haffner, Gradient-Based Learning Applied to Document Recognition (1998), Proc. IEEE -->
+[1] Y. LeCun, L. Bottou, Y. Bengio and P. Haffner, Gradient-Based Learning Applied to Document Recognition (1998), Proc. IEEE
