@@ -1,3 +1,39 @@
+.left-text{
+  display:flex;
+  float: left;
+  
+}
+.right-text{
+  display:flex;
+  float: right;
+}
+
+.card-header {
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  background-color: #f7f6f6;
+  box-sizing: border-box;
+  width: 50%;
+  border: solid 1px #e6e6e6;
+  padding: 10px 20px 10px 20px;
+  font-size: 1.4em;
+  font-weight: 700;
+}
+
+.card {
+  margin: 0% auto;
+  box-sizing: border-box;
+  padding: 1.25rem;
+  width: 50%;
+  border: solid 1px #e6e6e6;
+  overflow:hidden;
+}
+
+.mainBox{
+  margin-bottom: 10%;
+}
+
 .landing-page .carousel-caption {
   h1, p {
     text-transform: uppercase;
