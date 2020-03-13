@@ -1,11 +1,13 @@
 .left-text{
-  display:flex;
-  float: left;
+  display: flex;
+}
+
+.center-text{
+  display: flex;
 }
 
 .right-text{
-  display:flex;
-  float: right;
+  display: flex;
 }
 
 .card-header {
@@ -28,6 +30,9 @@
   width: 50%;
   border: solid 1px #e6e6e6;
   overflow:hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 .mainBox{
