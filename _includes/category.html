@@ -31,7 +31,7 @@ $(function(){
                     <div class="ibox">
                         <div class="ibox-content">
                             <a href="{{ post.post_url}}" class="btn-link">
-                                <h2>{{ post.title }}</h2>
+                                <div style="font-size: 18px;font-weight: bold;">{{ post.title }}</div>
                             </a>
                             <div class="small m-b-xs">
                                 <strong>{{ site.author.name }}</strong> <span class="text-muted"><i class="fa fa-clock-o"></i> {{ post.date | date: "%-d %b %Y" }}</span>
