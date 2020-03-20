@@ -7,5 +7,5 @@ date:   2020-03-12
 keywords: ""
 categories: [deep-learning]
 tags: [Convolutional Neural Network, Computer Vision, Research Paper]
-icon: fa-code
+icon: fas fa-book
 ---
