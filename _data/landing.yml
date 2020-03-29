@@ -14,7 +14,7 @@
 
 - id: skills
   i18n: nav.skills
-  name: Contribution
+  name: Contributions
   tpl: skills.html
   css: team
 
