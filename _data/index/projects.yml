@@ -1,12 +1,12 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: OCR
+- name: Research Paper Summary
   gh_user: 3outeille
-  repo: OCR
-  url: https://github.com/3outeille/OCR
-  img: /static/assets/img/landing/ocr.png
-  desc: An Optical Character Recognition software written in C as part of a student project.
+  repo: Research-Paper-Summary
+  url: https://github.com/3outeille/Research-Paper-Summary
+  img: /static/assets/img/landing/research-paper-summary.png
+  desc: Implementation of Deep Learning research paper in Tensorflow/Pytorch.
 
 - name: CNNumpy
   gh_user: 3outeille
@@ -15,12 +15,12 @@
   img: /static/assets/img/landing/cnnumpy.png
   desc: A Numpy Implementation of a Convolutional Neural Network (LeNet-5 architecture).
   
-- name: Research Paper Summary
+- name: OCR
   gh_user: 3outeille
-  repo: Research-Paper-Summary
-  url: https://github.com/3outeille/Research-Paper-Summary
-  img: /static/assets/img/landing/research-paper-summary.png
-  desc: Implementation of Deep Learning research paper in Tensorflow/Pytorch.
+  repo: OCR
+  url: https://github.com/3outeille/OCR
+  img: /static/assets/img/landing/ocr.png
+  desc: An Optical Character Recognition software written in C as part of a student project.
 
 - name: Coursera Labs
   gh_user: 3outeille
