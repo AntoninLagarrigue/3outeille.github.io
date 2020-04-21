@@ -29,9 +29,16 @@
   img: /static/assets/img/landing/ocr.png
   desc: An Optical Character Recognition software written in C as part of a student project.
 
-- name: Coursera Labs
+- name: Coursera-Labs
   gh_user: 3outeille
   repo: Coursera-Labs
   url: https://github.com/3outeille/Coursera-Labs
   img: /static/assets/img/landing/coursera-labs.png
   desc: Coursera Lab Assignments of "Machine Learning" and "Deep Learning Specialization".
+
+  - name: DLND-Labs
+  gh_user: 3outeille
+  repo: DLND-Labs
+  url: https://github.com/3outeille/DLND-Labs
+  img: /static/assets/img/landing/dlnd-labs.png
+  desc: Udacity Lab Assignments of "Deep Learning Nanodegree".
