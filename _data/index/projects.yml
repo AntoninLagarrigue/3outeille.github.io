@@ -8,6 +8,13 @@
   img: /static/assets/img/landing/research-paper-summary.png
   desc: Implementation of Deep Learning research paper in Tensorflow/Pytorch.
 
+- name: Yaae
+  gh_user: 3outeille
+  repo: Yaae
+  url: https://github.com/3outeille/Yaae
+  img: /static/assets/img/landing/yaae.png
+  desc: "Yaae: Yet another autodiff engine (written in Numpy)."
+
 - name: CNNumpy
   gh_user: 3outeille
   repo: CNNumpy
