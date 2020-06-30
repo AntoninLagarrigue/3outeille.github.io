@@ -1,13 +1,25 @@
+.wrap {
+  white-space: pre-wrap;       /* css-3 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;       /* Internet Explorer 5.5+ */
+  width: 80%;
+}
+
 .left-text{
   display: flex;
+  flex-grow: 1;
 }
 
 .center-text{
   display: flex;
+  flex-grow: 1;
 }
 
 .right-text{
   display: flex;
+  flex-grow: 1;
 }
 
 .card-header {
@@ -32,7 +44,7 @@
   overflow:hidden;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .mainBox{
@@ -130,6 +142,17 @@ h3, h4, h5 {
   &:last-child {
     margin-right: 40px;
   }
+}
+
+.nav-pills > li {
+  // background-color: #3385FF;
+  float:none;
+  display:inline-block;
+  zoom:1;
+}
+
+.nav-pills {
+  text-align:center;
 }
 
 .body-small .navbar-top-links li:last-child {
