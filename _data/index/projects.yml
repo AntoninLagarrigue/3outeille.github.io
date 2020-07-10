@@ -8,19 +8,19 @@
   img: /static/assets/img/landing/research-paper-summary.png
   desc: Implementation of Deep Learning research paper in Tensorflow/Pytorch.
 
+- name: CNNumpy
+  gh_user: 3outeille
+  repo: CNNumpy
+  url: https://github.com/3outeille/CNNumpy
+  img: /static/assets/img/landing/cnnumpy.png
+  desc: "A Numpy implementation of a Convolutional Neural Network: naive & fast (im2col/col2im)."
+
 - name: Yaae
   gh_user: 3outeille
   repo: Yaae
   url: https://github.com/3outeille/Yaae
   img: /static/assets/img/landing/yaae.png
   desc: "Yaae: Yet another autodiff engine (written in Numpy)."
-
-- name: CNNumpy
-  gh_user: 3outeille
-  repo: CNNumpy
-  url: https://github.com/3outeille/CNNumpy
-  img: /static/assets/img/landing/cnnumpy.png
-  desc: A Numpy Implementation of a Convolutional Neural Network (LeNet-5 architecture).
   
 - name: ML-Numpy
   gh_user: 3outeille
