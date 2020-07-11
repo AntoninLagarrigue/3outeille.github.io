@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fas fa-language
     - name: fas fa-tree
-  desc: French computer engineering student at  <a href="https://www.epita.fr/" target="_blank">EPITA</a> with strong interest in Machine Learning/Deep Learning, Languages and Natural Environment.
+  desc: French computer engineering student at  <a href="https://www.epita.fr/" target="_blank">EPITA</a> with strong interest in Problem Solving, Machine Learning/Deep Learning, Languages and Natural Environment.
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
   #name: jalpc
