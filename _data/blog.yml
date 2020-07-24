@@ -9,8 +9,9 @@
 - name: Deep Learning
   href: /deep-learning/
 
-- name: Data Structure
-  href: /data-structure/
+# Don't display it but still accessible
+# - name: Data Structure
+#   href: /data-structure/
 
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
