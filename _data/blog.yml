@@ -13,6 +13,9 @@
 # - name: Data Structure
 #   href: /data-structure/
 
+# - name: Talk
+#   href: /talk/
+
 # Don't display donation page: change donation to off at file '_config.yml'
 # - name: Donate
 #   href: /donate/
