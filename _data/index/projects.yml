@@ -27,7 +27,7 @@
   repo: ML-Numpy
   url: https://github.com/3outeille/ML-Numpy
   img: /static/assets/img/landing/ml-numpy.png
-  desc: A Numpy Implementation of various Machine Learning algorithms.
+  desc: ❗WIP❗ A Numpy Implementation of various Machine Learning algorithms.
 
 - name: OCR
   gh_user: 3outeille
