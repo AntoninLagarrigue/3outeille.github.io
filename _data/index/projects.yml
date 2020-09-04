@@ -22,7 +22,7 @@
   img: /static/assets/img/landing/yaae.png
   desc: "Yaae: Yet another autodiff engine (written in Numpy)."
   
-  - name: Research Paper Summary
+- name: Research Paper Summary
   gh_user: 3outeille
   repo: Research-Paper-Summary
   url: https://github.com/3outeille/Research-Paper-Summary
