@@ -27,7 +27,7 @@
   repo: Research-Paper-Summary
   url: https://github.com/3outeille/Research-Paper-Summary
   img: /static/assets/img/landing/research-paper-summary.png
-  desc: Implementation of Deep Learning research paper in Tensorflow/Pytorch.
+  desc: Summary & Implementation of Deep Learning research paper in Tensorflow/Pytorch.
 
 - name: ML-Numpy
   gh_user: 3outeille
