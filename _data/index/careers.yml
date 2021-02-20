@@ -1,19 +1,34 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: <a href="https://www.lrde.epita.fr/wiki/Home" target="_blank">LRDE</a>
+    i18n: company_a
+  desc:
+    detail: Working on Deep Learning model compression.
+    i18n: company_a_desc
+  date:
+    detail: Jan. 2021 - Present 
+    i18n: company_a_date
+  job:
+    detail: Research assistant
+    i18n: company_a_job
+  icon: fas fa-briefcase 
+  present: true
+
+- name:
     detail: <a href="https://new-leaves.github.io/" target="_blank">New Leaves</a>
     i18n: company_a
   desc:
     detail: Non-profit organization that teaches programming to middle/high school students in order to break prejudice about the field. 
     i18n: company_a_desc
   date:
-    detail: Jul. 2019 - Present
+    detail: Jul. 2019 - Sept. 2020
     i18n: company_a_date
   job:
     detail: Founder
     i18n: company_a_job
   icon: fas fa-leaf
-  present: true
+  present: false 
 
 - name:
     detail: Neko Business
