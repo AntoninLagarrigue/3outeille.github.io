@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Ferdinand Mom   # Be used at blog posts' author.
   first_name: Ferdinand  # Be used at index page about me section.
   last_name: Mom  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpeg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/ferdi-night-200x200.jpg  # upload your avatar at directory and edit it.
   github_username: 3outeille  # Leave blank if you don't have now
   linkedin_id: ferdinand-mom-b74770173/ # Leave blank if you don't have now
   facebook_username:  # Leave blank if you don't have now
