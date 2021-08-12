@@ -5,7 +5,7 @@ post_url : "https://hackmd.io/@antolaga/rJmcYqhAd"
 title:  "RL by Barto and Sutton - Part II"
 date:   2021-01-28
 keywords: ""
-categories: [machine-learning]
+categories: [deep-learning]
 tags: [Reinforcement Learning, Dynamic Programming]
 icon: fas fa-book
 ---
