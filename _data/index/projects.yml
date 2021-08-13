@@ -20,5 +20,5 @@
   gh_user: AntoninLagarrigue
   repo: KingTales-VideoGame
   url: https://github.com/AntoninLagarrigue/KingTales-VideoGame
-  img: /static/assets/img/landing/KingTales-VideoGame.png
+  img: /static/assets/img/landing/KingTales-VideoGame.PNG
   desc: KingTales is a platformer, coded from the game engine to the graphical interface and the game animations in C++ and QT.
