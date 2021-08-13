@@ -1,46 +1,62 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+  
+
 - name:
-    detail: <a href="https://www.lrde.epita.fr/wiki/Home" target="_blank">LRDE</a>
+    detail: Continental AG
     i18n: company_a
   desc:
-    detail: Working on Deep Learning model compression.
+    detail: Research Engineer in Deep Learning
     i18n: company_a_desc
   date:
-    detail: Jan. 2021 - Present 
+    detail: Apr. 2021 - Now
     i18n: company_a_date
   job:
-    detail: Research assistant
+    detail: Intern
     i18n: company_a_job
-  icon: fas fa-briefcase 
+  icon: fa-plus-square
   present: true
-
+  
 - name:
-    detail: <a href="https://new-leaves.github.io/" target="_blank">New Leaves</a>
-    i18n: company_a
-  desc:
-    detail: Non-profit organization that teaches programming to middle/high school students in order to break prejudice about the field. 
-    i18n: company_a_desc
-  date:
-    detail: Jul. 2019 - Sept. 2020
-    i18n: company_a_date
-  job:
-    detail: Founder
-    i18n: company_a_job
-  icon: fas fa-leaf
-  present: false 
-
-- name:
-    detail: Neko Business
+    detail: Bank of France
     i18n: company_b
   desc:
-    detail:
+    detail: Machine Learning Engineer
     i18n: company_b_desc
   date:
-    detail: Jul. 2018 - Aug. 2018
+    detail: Jun. 2020 - Sept. 2020
     i18n: company_b_date
   job:
-    detail: Summer Intern
+    detail: Intern
     i18n: company_b_job
-  icon: fas fa-briefcase
+  icon: fa-plus-square
+  present: false
   
+- name:
+    detail: Polytech Tours
+    i18n: company_a
+  desc:
+    detail: Master of Science, Computer Science & Engineering
+    i18n: company_a_desc
+  date:
+    detail: 2017 - Now
+    i18n: company_a_date
+  job:
+    detail: Student
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+ 
+- name:
+    detail: High Preparatory Classes
+    i18n: company_b
+  desc:
+    detail: Intensive classes in Mathematics, Physics & Engineering Science.
+    i18n: company_b_desc
+  date:
+    detail: 2014 - 2017
+    i18n: company_b_date
+  job:
+    detail: Student
+    i18n: company_a_job
+  icon: fa-plus-square
