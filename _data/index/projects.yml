@@ -36,23 +36,16 @@
   img: /static/assets/img/landing/ml-numpy.png
   desc: ❗WIP❗ A Numpy Implementation of various Machine Learning algorithms.
 
-- name: OCR
-  gh_user: 3outeille
-  repo: OCR
-  url: https://github.com/3outeille/OCR
-  img: /static/assets/img/landing/ocr.png
-  desc: An Optical Character Recognition software written in C as part of a student project.
+- name: End-to-end-Self-Driving
+  gh_user: AntoninLagarrigue
+  repo: End-to-end-Self-Driving
+  url: https://github.com/AntoninLagarrigue/End-to-end-Self-Driving
+  img: /static/assets/img/landing/End-to-end-Self-Driving.png
+  desc: An end-to-end approach for self-driving using reinforcement learning, imitation learning, and image data only. Implemented in raw tensorflow2.
 
-- name: Coursera-Labs
-  gh_user: 3outeille
-  repo: Coursera-Labs
-  url: https://github.com/3outeille/Coursera-Labs
-  img: /static/assets/img/landing/coursera-labs.png
-  desc: Coursera Lab Assignments of "Machine Learning" and "Deep Learning Specialization".
-
-- name: DLND-Labs
-  gh_user: 3outeille
-  repo: DLND-Labs
-  url: https://github.com/3outeille/DLND-Labs
-  img: /static/assets/img/landing/dlnd-labs.png
-  desc: Udacity Lab Assignments of "Deep Learning Nanodegree".
+- name: DeepRL-Hands-On
+  gh_user: AntoninLagarrigue
+  repo: DeepRL-Hands-On
+  url: https://github.com/AntoninLagarrigue/DeepRL-Hands-On
+  img: /static/assets/img/landing/DeepRL-Hands-On.png
+  desc: Implementation of Deep RL algorithms such as Reinforce policy gradient, basic DQN, dueling DQN in raw tensorflow2. Tested on CartPole OpenAI gym environement.
