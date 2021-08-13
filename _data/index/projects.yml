@@ -1,40 +1,6 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: CNNumpy
-  gh_user: 3outeille
-  repo: CNNumpy
-  url: https://github.com/3outeille/CNNumpy
-  img: /static/assets/img/landing/cnnumpy.png
-  desc: "A Numpy implementation of a Convolutional Neural Network: naive & fast (im2col/col2im)."
-
-- name: GANumpy
-  gh_user: 3outeille
-  repo: GANumpy
-  url: https://github.com/3outeille/GANumpy
-  img: /static/assets/img/landing/ganumpy.png
-  desc: "A Numpy implementation of a Generative Adversarial Network."
-
-- name: Yaae
-  gh_user: 3outeille
-  repo: Yaae
-  url: https://github.com/3outeille/Yaae
-  img: /static/assets/img/landing/yaae.png
-  desc: "Yaae: Yet another autodiff engine (written in Numpy)."
-  
-- name: Research Paper Summary
-  gh_user: 3outeille
-  repo: Research-Paper-Summary
-  url: https://github.com/3outeille/Research-Paper-Summary
-  img: /static/assets/img/landing/research-paper-summary.png
-  desc: Summary & Implementation of Deep Learning research paper in Tensorflow/Pytorch.
-
-- name: ML-Numpy
-  gh_user: 3outeille
-  repo: ML-Numpy
-  url: https://github.com/3outeille/ML-Numpy
-  img: /static/assets/img/landing/ml-numpy.png
-  desc: ❗WIP❗ A Numpy Implementation of various Machine Learning algorithms.
 
 - name: End-to-end-Self-Driving
   gh_user: AntoninLagarrigue
@@ -49,3 +15,10 @@
   url: https://github.com/AntoninLagarrigue/DeepRL-Hands-On
   img: /static/assets/img/landing/DeepRL-Hands-On.png
   desc: Implementation of Deep RL algorithms such as Reinforce policy gradient, basic DQN, dueling DQN in raw tensorflow2. Tested on CartPole OpenAI gym environement.
+
+- name: KingTales-VideoGame
+  gh_user: AntoninLagarrigue
+  repo: KingTales-VideoGame
+  url: https://github.com/AntoninLagarrigue/KingTales-VideoGame
+  img: /static/assets/img/landing/KingTales-VideoGame.png
+  desc: KingTales is a platformer, coded from the game engine to the graphical interface and the game animations in C++ and QT.
