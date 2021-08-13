@@ -6,15 +6,15 @@
 - name: Machine Learning
   href: /machine-learning/
 
-- name: Deep Learning
-  href: /deep-learning/
+- name: Reinforcement Learning
+  href: /reinforcement-learning/
 
 # Don't display it but still accessible
 # - name: Data Structure
 #   href: /data-structure/
 
-- name: Talk
-  href: /talk/
+- name: Software
+  href: /software/
 
 # Don't display donation page: change donation to off at file '_config.yml'
 # - name: Donate
